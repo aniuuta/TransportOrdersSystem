@@ -1,0 +1,18 @@
+﻿[
+    {
+        "id":  1,
+        "client_id":  1,
+        "cargo_id":  1,
+        "date":  "2025-10-23T15:58:51Z",
+        "route_id":  1,
+        "status":  "pending"
+    },
+    {
+        "id":  2,
+        "client_id":  2,
+        "cargo_id":  2,
+        "date":  "2025-10-23T15:58:51Z",
+        "route_id":  2,
+        "status":  "in_transit"
+    }
+]

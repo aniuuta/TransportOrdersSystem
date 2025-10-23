@@ -1,0 +1,12 @@
+﻿[
+    {
+        "cargo_id":  1,
+        "id":  1,
+        "order_id":  1
+    },
+    {
+        "cargo_id":  2,
+        "id":  2,
+        "order_id":  2
+    }
+]

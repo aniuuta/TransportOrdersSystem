@@ -1,0 +1,26 @@
+﻿[
+    {
+        "timestamp":  "2025-10-23T15:58:51Z",
+        "event_type":  "entry",
+        "_id":  "919f0e53-303d-4185-aac3-79554dc7cbdc",
+        "cargo_id":  1,
+        "location":  "Порт СПб",
+        "status":  "pending"
+    },
+    {
+        "timestamp":  "2025-10-23T17:58:51Z",
+        "event_type":  "unload",
+        "_id":  "26d42daf-88ec-497d-abd8-15af4846d0ea",
+        "cargo_id":  1,
+        "location":  "Порт СПб",
+        "status":  "completed"
+    },
+    {
+        "timestamp":  "2025-10-23T16:58:51Z",
+        "event_type":  "entry",
+        "_id":  "4b173f33-04fc-49f7-876e-fb77d0855dcf",
+        "cargo_id":  2,
+        "location":  "Порт Новороссийск",
+        "status":  "pending"
+    }
+]

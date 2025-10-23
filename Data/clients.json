@@ -1,0 +1,42 @@
+﻿[
+    {
+        "contact_info":  {
+                             "email":  "info@rogaikopyta.com",
+                             "phone":  "+79001234567"
+                         },
+        "name":  "ООО Рога и Копыта",
+        "id":  1
+    },
+    {
+        "contact_info":  {
+                             "email":  "petrov@example.com",
+                             "phone":  "+79007654321"
+                         },
+        "name":  "ИП Петров",
+        "id":  2
+    },
+    {
+        "contact_info":  {
+                             "email":  "",
+                             "phone":  ""
+                         },
+        "name":  "",
+        "id":  3
+    },
+    {
+        "contact_info":  {
+                             "email":  "",
+                             "phone":  ""
+                         },
+        "name":  "",
+        "id":  4
+    },
+    {
+        "contact_info":  {
+                             "email":  "",
+                             "phone":  ""
+                         },
+        "name":  "",
+        "id":  5
+    }
+]

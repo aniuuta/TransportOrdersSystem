@@ -1,0 +1,16 @@
+﻿[
+    {
+        "owner_client_id":  1,
+        "weight":  1000,
+        "description":  "Электроника",
+        "id":  1,
+        "type":  "Стандартный"
+    },
+    {
+        "owner_client_id":  2,
+        "weight":  500,
+        "description":  "Стекло",
+        "id":  2,
+        "type":  "Хрупкий"
+    }
+]

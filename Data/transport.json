@@ -1,0 +1,16 @@
+﻿[
+    {
+        "capacity":  10000,
+        "current_port_id":  1,
+        "name":  "Корабль 1",
+        "id":  1,
+        "type":  "Судно"
+    },
+    {
+        "capacity":  5000,
+        "current_port_id":  2,
+        "name":  "Газель 1",
+        "id":  2,
+        "type":  "Грузовик"
+    }
+]

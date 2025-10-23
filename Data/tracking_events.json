@@ -1,0 +1,23 @@
+﻿[
+    {
+        "cargo_id":  1,
+        "event":  "Departure",
+        "location":  "Порт СПб",
+        "_id":  "62a8cc0e-d0dd-475d-a3ba-80fe404b8fb3",
+        "details":  "Left Port A"
+    },
+    {
+        "cargo_id":  1,
+        "event":  "Arrival",
+        "location":  "Порт Новороссийск",
+        "_id":  "92170a06-e633-47b5-8309-4ecfb7a64f42",
+        "details":  "Arrived at Port B"
+    },
+    {
+        "cargo_id":  2,
+        "event":  "Entry",
+        "location":  "Порт Новороссийск",
+        "_id":  "7c782188-7759-4106-b9c6-0e54688e15a3",
+        "details":  "Entered Port C"
+    }
+]
